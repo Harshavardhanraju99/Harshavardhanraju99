@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Harsha vardhan raju yerra
-- 👀 As a certified ethical hacker, soc security researcher, and adept in understanding hackers' psychology, and the founder of Hidden Hackers to promote ethical hacking principles and advance cybersecurity awareness.
+- 👀 iam a certified ethical hacker, soc security researcher, and adept in understanding hackers' psychology, and the founder of Hidden Hackers to promote ethical hacking 
+      principles and advance cybersecurity awareness.
 
 - 📫 How to reach me +91 996xxxxxx4
 - 😄 Pronouns: .
